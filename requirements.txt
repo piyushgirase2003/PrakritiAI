@@ -1,0 +1,5 @@
+streamlit
+pandas
+scikit-learn
+deep-translator==1.9.0
+gTTS==2.2.3
